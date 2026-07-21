@@ -5,7 +5,7 @@ Esta es una aplicación de escritorio clásica para computadora que realiza oper
 ---
 
 ## 🚀 Características
-* *Cálculos Aritméticos:* Soporte completo para sumas, restas, multiplicaciones y divisiones.
+* *Cálculos Aritméticos:* Soporte completo para sumas, restas, multiplicaciones y divisiones y porcentaje.
 * *Entorno de Escritorio:* Diseñado para ejecutarse localmente de forma rápida y ligera.
 * *Estructura Limpia:* Código organizado de manera sencilla para facilitar su mantenimiento y aprendizaje.
 
@@ -13,7 +13,7 @@ Esta es una aplicación de escritorio clásica para computadora que realiza oper
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
 * *Lenguaje:* [Python](https://python.org)
-* *Librería de Interfaz (opcional):* Tkinter / CustomTkinter (si usaste ventanas visuales)
+* *Librería de Interfaz (opcional):* Tkinter / CustomTkinter.
 
 ---
 
